@@ -32,7 +32,7 @@ The CSS specifications are maintained by the World Wide Web Consortium (W3C). In
 
 In addition to HTML, other markup languages support the use of CSS including XHTML, plain XML, SVG, and XUL.
 
-***C sharp:****
+***C sharp:***
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/225px-C_Sharp_wordmark.svg.png" >
 
